@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0;
+	padding:0;
+	font-family:century Gothic;
+ }
+.logo img{ margin:0;float:left; width:150px; height:auto;top:auto;}
+
+.h1{ color:#00C; 
+	background-color:#FFF; 
+	text-align:center; 
+	font-size:24px;
+	font-family:"Times New Roman", Times, serif
+	margin-top:30px;
+	}
+
+h6{font-size:14px; font-family:"Times New Roman", Times, serif; color:#F00;}
+
+.t{	        
+			margin-top:8px;
+			display:inline-block;
+			text-decoration:blink;
+			border:1px solid #09C;
+			transition:0.6s ease;
+			color:#0CF;
+  }
+
+
+
+td{ float:left; font-family:"Times New Roman", Times, serif; font-size:16px; text-align:center; padding:5px;}
+.m{ float:right; color:#F00; font-family:Arial, Helvetica, sans-serif; font-size:13px; text-align:center; padding:5px;}
